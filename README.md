@@ -1,4 +1,4 @@
-# Monitors and Mistrust ## A Study on Race, Partisanship, and Poll Watchers
+# Monitors and Mistrust: A Study on Race, Partisanship, and Poll Watchers
 ### A Thesis Presented in Partial Fulfillment of the Political Science Honors Bachelor’s Degree
 
 Replication code for my senior thesis, for which I receieved Highest Honors
